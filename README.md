@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Eli Alvarez</h1>
+<h1 align="center">👋Hi! I'm Eli Alvarez</h1>
 <h3 align="center">Naturally curious and passionate learner</h3>
 <br>
 <p align="left">I come from Economic Sciences but right now I am undergoing a professional reconversion towards the IT sector. I am very curious and love learning new skills.</p>
