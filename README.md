@@ -1,8 +1,10 @@
 <h1 align="center">I'm Eli Alvarez</h1>
 <h3 align="center">Naturally curious and passionate learner</h3>
+<br>
 
+- 💬 Ask me about:  **HTML | CSS | Tailwind | PHP | Laravel | MongoDB | MySQL**
 
-- 🌱 I’m currently attending **a Coding Bootcamp**
+- 🌱 I’m currently learning:  **Python | JS | Node | Vue | Typescript**
 
 - 📫 How to reach me:  **https://www.linkedin.com/in/elisabet-v-alvarez/**
 
