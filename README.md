@@ -7,7 +7,7 @@
 
 ✔ Bootcamp FullStack PHP at IT Academy, Barcelona Activa.
 
-✔ Currently doing Women's Bootcamp at Tech Glovo & KeepCoding.
+✔ Currently doing Women's Bootcamp in Tech Glovo & KeepCoding.
 </p>
 <br>
 
