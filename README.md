@@ -1,31 +1,32 @@
-<h1 align="center">👋Hi! I'm Eli Alvarez</h1>
+<h1 align="center">Hi! I'm Eli Alvarez👋</h1>
 <h3 align="center">Naturally curious and passionate learner</h3>
 <br>
-<p align="left">I come from Economic Sciences but right now I am undergoing a professional reconversion towards the IT sector. I am very curious and love learning new skills.</p>
 
-<p align="center">Approaches to programming:
 
-✔ Bootcamp FullStack PHP at IT Academy, Barcelona Activa.
+## 🚀 About Me
+<p align="left">As someone who is enthusiastic about learning, I'm constantly seeking out fresh opportunities to develop myself, both in my personal life and in my career. Although I have a background in Economics, I have decided to make the move into the technology sector, and I am especially drawn to Full Stack development. I believe that this field offers a unique combination of creativity, logical thinking, and critical analysis.</p>
 
-✔ Currently doing Women's Bootcamp in Tech Glovo & KeepCoding.
-</p>
+
+
+### Approaches to programming:
+
+✔ Full Stack PHP Bootcamp - IT Academy, Barcelona Activa
+
+✔ Full Stack Web Bootcamp - KeepCoding & Glovo (Women in Tech Program)
+
 <br>
 
-- 💬 Ask me about:  **HTML | CSS | Tailwind | PHP | Laravel | MongoDB | MySQL**
+## 🛠 Skills
 
-- 🌱 I’m currently learning:  **Python | JS | Node | Vue | Typescript**
+**HTML | CSS | Tailwind CSS | PHP | Laravel | MongoDB | MySQL | Javascript | Node.js | Vue.js | Typescript**
+<br>
 
-- 👨‍💻 All of my projects are available at **[https://elifullstack.github.io/](https://elifullstack.github.io/)**
+## 🔗 Connect with me:
 
-- 📫 How to reach me:  **elisabet.v.alvarez@gmail.com**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisabet-v-alvarez/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/elisabet-v-alvarez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elisabet-v-alvarez" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
 
 
 <!--
